@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/db_mgmt.cpp.o ./Debug/flights_db.cpp.o
